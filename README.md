@@ -11,7 +11,8 @@ Each pipeline stage is represented with its major component—instruction memory
 <img width="666" height="525" alt="image" src="https://github.com/user-attachments/assets/6b234837-d02b-4ccf-a6fa-8f7d7f3da7be" />
 
 <img width="636" height="368" alt="image" src="https://github.com/user-attachments/assets/c5905287-01ce-4f53-989c-4eef0d818552" />
-
+<br>
+<br>
 
 1. Implementing Fetch Stage
    Modules: MUX, Program Counter (PC), Instruction Memory (IM), Adder
