@@ -21,3 +21,15 @@ Each pipeline stage is represented with its major component—instruction memory
 
 2. Decode Stage
    Modules: Control Unit, Register File, Sign Extender, Decode Stage Registers
+
+<br>
+3. Execute Stage
+Modules: ALU, Adder, MUX, Execute Stage Registers
+
+<br>
+4. Memory Read Write Stage
+Modules: Data Memory, Memory RW Stage Registers
+
+<br>
+5. Writeback Register Stage
+Module: MUX 
