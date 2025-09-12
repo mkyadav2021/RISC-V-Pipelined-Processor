@@ -15,4 +15,9 @@ Each pipeline stage is represented with its major component—instruction memory
 <br>
 
 1. Implementing Fetch Stage
-   Modules: MUX, Program Counter (PC), Instruction Memory (IM), Adder
+   Modules: MUX, Program Counter (PC), Instruction Memory (IM), Adder, Fetch Stage Registers
+
+<br>
+
+2. Decode Stage
+   Modules: Control Unit, Register File, Sign Extender, Decode Stage Registers
