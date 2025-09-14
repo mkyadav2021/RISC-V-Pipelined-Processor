@@ -1,0 +1,87 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Sep 13 06:40:20 2025
+[*]
+[dumpfile] "/home/mitochondria/Desktop/RISCV-Pipeline_Processor/pipelined_dump.vcd"
+[dumpfile_mtime] "Sat Sep 13 06:37:51 2025"
+[dumpfile_size] 17277
+[savefile] "/home/mitochondria/Desktop/RISCV-Pipeline_Processor/pipeline.gtkw"
+[timestart] 0
+[size] 1920 1033
+[pos] -1 -1
+*-7.789184 1418 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.ppm.
+[treeopen] testbench.ppm.ds.
+[sst_width] 278
+[signals_width] 240
+[sst_expanded] 1
+[sst_vpaned_height] 308
+@28
+testbench.clk
+testbench.rst
+@800200
+-fetch_cycle
+@28
+testbench.ppm.fs.PCSrcE
+@22
+testbench.ppm.fs.PCTargetE[31:0]
+testbench.ppm.fs.InstrD[31:0]
+testbench.ppm.fs.PCD[31:0]
+testbench.ppm.fs.PCPlus4D[31:0]
+@1000200
+-fetch_cycle
+@800200
+-decode_stage
+@28
+testbench.ppm.ds.RegWriteE
+testbench.ppm.ds.ResultSrcE
+testbench.ppm.ds.MemWriteE
+testbench.ppm.ds.BranchE
+testbench.ppm.ds.ALUControlE[2:0]
+testbench.ppm.ds.ALUSrcE
+@22
+testbench.ppm.ds.RD1_E[31:0]
+testbench.ppm.ds.RD2_E[31:0]
+testbench.ppm.ds.PCE[31:0]
+testbench.ppm.ds.RdE[4:0]
+testbench.ppm.ds.ImmExtE[31:0]
+testbench.ppm.ds.PCPlus4E[31:0]
+@1000200
+-decode_stage
+@800200
+-execute_stage
+@28
+testbench.ppm.es.RegWriteM
+testbench.ppm.es.ResultSrcM
+testbench.ppm.es.MemWriteM
+@22
+testbench.ppm.es.ALUResultM[31:0]
+testbench.ppm.es.RdM[4:0]
+testbench.ppm.es.PCPlus4M[31:0]
+@1000200
+-execute_stage
+@800200
+-mem_rw_stage
+@28
+testbench.ppm.mrws.RegWriteW
+@29
+testbench.ppm.mrws.ResultSrcW
+@22
+testbench.ppm.mrws.ALUResultW[31:0]
+testbench.ppm.mrws.ReadDataW[31:0]
+testbench.ppm.mrws.RdW[4:0]
+testbench.ppm.mrws.PCPlus4W[31:0]
+@1000200
+-mem_rw_stage
+@800200
+-reg_wb_stage
+@28
+testbench.ppm.wbrs.RegWriteW_wb
+@22
+testbench.ppm.wbrs.RdW_wb[4:0]
+testbench.ppm.wbrs.ResultW[31:0]
+@1000200
+-reg_wb_stage
+[pattern_trace] 1
+[pattern_trace] 0
