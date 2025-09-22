@@ -6,6 +6,8 @@ We design a pipelined processor by subdividing the single-cycle processor into f
 important than latency. Pipelining introduces some overhead, so the throughput will not be as high as we might ideally desire, but pipelining nevertheless gives such great advantage for so little cost that all modern high-performance microprocessors are pipelined.
 
 <img width="651" height="305" alt="image" src="https://github.com/user-attachments/assets/051c5c0b-4e6c-4635-90a6-66dcbbbf659d" />
+
+
 Each pipeline stage is represented with its major component—instruction memory (IM), register file (RF) read, ALU execution, data memory (DM), and register file writeback—to illustrate the flow of instructions through the pipeline. 
 
 <img width="666" height="525" alt="image" src="https://github.com/user-attachments/assets/6b234837-d02b-4ccf-a6fa-8f7d7f3da7be" />
