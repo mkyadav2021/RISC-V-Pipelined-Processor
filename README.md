@@ -37,13 +37,19 @@ ________________________________________________________________________________
 
 Outputs:
 
+Raw (before implementing all modules)
+<img width="1920" height="1080" alt="pipelined_raw" src="https://github.com/user-attachments/assets/25428035-1e1c-4b7a-8f5c-41629c8d1b5d" />
+
+
 Without hazard control unit
-<img width="1920" height="1080" alt="pipelined_raw" src="https://github.com/user-attachments/assets/2561e4a8-2803-4a81-8eab-981047a02185" />
+<img width="1920" height="1080" alt="output_showing_data_hazard" src="https://github.com/user-attachments/assets/80332325-61fd-4d7a-9e4c-7a0de3cd8b53" />
+
 
 
 
 <br>
 With hazard control unit
-<img width="1920" height="1080" alt="output_showing_data_hazard" src="https://github.com/user-attachments/assets/6dd7856f-f0dc-493b-8097-d36a56ff7892" />
+<img width="1941" height="1080" alt="hazard handling" src="https://github.com/user-attachments/assets/230581ce-5d53-4b2e-bde2-71c87f7c9034" />
+
 
 
