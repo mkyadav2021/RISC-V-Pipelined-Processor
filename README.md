@@ -50,7 +50,7 @@ Without hazard control unit
 
 
 <br>
-With hazard control unit
+With hazard control unit (showing waveform for Result only)
 <img width="1941" height="1080" alt="hazard handling" src="https://github.com/user-attachments/assets/230581ce-5d53-4b2e-bde2-71c87f7c9034" />
 
 
