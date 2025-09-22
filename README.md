@@ -33,3 +33,17 @@ Modules: Data Memory, Memory RW Stage Registers
 <br>
 5. Writeback Register Stage
 Module: MUX 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Outputs:
+
+Without hazard control unit
+<img width="1920" height="1080" alt="pipelined_raw" src="https://github.com/user-attachments/assets/2561e4a8-2803-4a81-8eab-981047a02185" />
+
+
+
+<br>
+With hazard control unit
+<img width="1920" height="1080" alt="output_showing_data_hazard" src="https://github.com/user-attachments/assets/6dd7856f-f0dc-493b-8097-d36a56ff7892" />
+
+
