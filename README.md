@@ -1,4 +1,4 @@
-[Codes to the project can be made available upon request]
+[The project codes can be made available upon reuqest.]
 <br>
 # RISC-V-Pipelined-Processor
 
